@@ -1,0 +1,14 @@
+﻿using System;
+
+namespace TestOhTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+
+            ///lalaland
+        }
+    }
+}
